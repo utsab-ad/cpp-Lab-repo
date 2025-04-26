@@ -1,3 +1,5 @@
+// Program to check whether the number is Narcissistic or not using Function
+
 #include<iostream>
 #include<math.h>
 	using namespace std;

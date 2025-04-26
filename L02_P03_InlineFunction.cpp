@@ -1,3 +1,5 @@
+// Example Program to define INLINE function 
+
 #include<iostream>
 
     using namespace std;

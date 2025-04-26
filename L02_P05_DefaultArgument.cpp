@@ -1,3 +1,5 @@
+// Example Program to use Default Argument in the Function
+
 #include<iostream>
         using namespace std;
     int compute(int a, int b, int c = 0, int d = 0) {

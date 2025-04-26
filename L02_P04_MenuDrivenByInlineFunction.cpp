@@ -1,3 +1,5 @@
+// Menu Driven Program to perform some alculations using INLINE function
+
 #include<iostream>
         using namespace std;
 

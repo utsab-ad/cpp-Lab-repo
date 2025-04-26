@@ -1,3 +1,5 @@
+// Example Program to define "enum" with user specific integer DataType 
+
 #include<iostream>
     using namespace std;
       enum Days {

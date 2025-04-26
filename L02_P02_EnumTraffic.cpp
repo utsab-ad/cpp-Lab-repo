@@ -1,8 +1,10 @@
+// Example Program to define "enum" "Traffic_Light" and  displaying the enum values
+
 #include<iostream>
 
     using namespace std;
 
-        enum Light {
+        enum Traffic_Light {
         red=5,
         green,
         yell,
@@ -11,7 +13,7 @@
 
     int main() {
 
-        Light go, wait, stop;
+        Traffic_Light go, wait, stop;
 
         stop=red;
         wait=yell;

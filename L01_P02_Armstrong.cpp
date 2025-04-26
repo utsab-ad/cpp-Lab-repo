@@ -1,3 +1,5 @@
+// Program to check whether the number is armstrong or not using Function
+
 #include<iostream>
 	using namespace std;
 	
