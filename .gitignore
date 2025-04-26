@@ -1,0 +1,14 @@
+# Ignore object and executable files
+*.o
+*.obj
+*.exe
+*.out
+*.class
+
+# Ignore backup/editor files
+*~
+*.swp
+
+# Ignore build directories (if using build systems)
+build/
+bin/
