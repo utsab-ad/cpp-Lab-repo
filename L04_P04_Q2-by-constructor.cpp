@@ -19,13 +19,9 @@
     }
     
   int main() {
-    int n, d;
-    cout << "\nEnter Numerator: ";
-    cin >> n;
-    cout << "\nEnter Denominator: ";
-    cin >> d;
+  
 
-    Rational x(n, d);  //using parameterized constructor
+    Rational x(22, 7);  //using parameterized constructor
 
     x.display();
     x.real();
