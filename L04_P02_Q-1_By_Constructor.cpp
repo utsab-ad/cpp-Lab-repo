@@ -22,14 +22,8 @@ void Rational::display() {
 }
 
 int main() {
-    int n, d;
-    cout << "Enter Numerator: ";
-    cin >> n;
-    cout << "Enter Denominator: ";
-    cin >> d;
 
-    // Creating object using parameterized constructor
-    Rational x(n, d);
+    Rational x(22, 7);    // Parameterized constructor is called
     x.display();
 
     return 0;
