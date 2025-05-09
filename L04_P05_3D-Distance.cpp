@@ -1,4 +1,4 @@
-/*Point class, objects with (x, y, z), distance between origin and point, */
+/* Question NO - 3 .. Point class, objects with (x, y, z), distance between origin and point, */
 
 #include<iostream>
 #include<cmath>
